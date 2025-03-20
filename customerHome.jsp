@@ -14,8 +14,8 @@
       <a href="customerHome.jsp">Home</a>
       <a href="customerBookingService.jsp">Booking Services</a>
       <a href="#">Tracking</a>
-      <a href="#">Previous Booking</a>
-      <a href="#">Contact Support</a>
+      <a href="customerPreviousBooking.jsp">Previous Booking</a>
+      <a href="contactSupport.jsp">Contact Support</a>
       <a href="customerLogout.jsp">Logout</a>
     </div>
   </nav>

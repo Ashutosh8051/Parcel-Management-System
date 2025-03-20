@@ -28,7 +28,7 @@
         <a href="#">Forgot Password?</a>
       </div>
       <div class="link">
-        New user? <a href="customerRegister.html">Register here</a>
+        New user? <a href="customerRegister.jsp">Register here</a>
       </div>
     </form>
   </div>
